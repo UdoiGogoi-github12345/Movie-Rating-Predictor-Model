@@ -31,8 +31,7 @@
 ##### Tools/IDE   : Anaconda
 ##### Libraries   : NumPy, Pandas
 
-#### Duration   : October - December 2016
 
 Current Version  : v1.0.0.0
 
-Last Update      : 10.11.2016
+
